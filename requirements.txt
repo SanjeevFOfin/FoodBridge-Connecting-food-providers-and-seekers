@@ -4,5 +4,9 @@ pandas
 numpy
 matplotlib
 plotly
+pymongo[srv]
+urllib3
+
+
 
 
